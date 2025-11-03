@@ -1,0 +1,9 @@
+CARAVEL_ROOT: /home/ghp7482/projects/LLM4Microwatt/caravel
+MCW_ROOT: /home/ghp7482/projects/LLM4Microwatt/mgmt_core_wrapper
+PDK: sky130B
+PDK_ROOT: /home/ghp7482/projects/LLM4Microwatt/dependencies/pdks
+USER_PROJECT_ROOT: /home/ghp7482/projects/LLM4Microwatt
+caravan: false
+clk: 25
+emailto:
+- null

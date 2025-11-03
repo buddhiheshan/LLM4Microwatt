@@ -712,7 +712,7 @@ MACRO openframe_project_wrapper
     END
   END analog_noesd_io[9]
   PIN gpio_analog_en[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -720,7 +720,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[0]
   PIN gpio_analog_en[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -728,7 +728,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[10]
   PIN gpio_analog_en[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -736,7 +736,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[11]
   PIN gpio_analog_en[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -744,7 +744,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[12]
   PIN gpio_analog_en[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -752,7 +752,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[13]
   PIN gpio_analog_en[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -760,7 +760,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[14]
   PIN gpio_analog_en[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -768,7 +768,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[15]
   PIN gpio_analog_en[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -776,7 +776,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[16]
   PIN gpio_analog_en[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -784,7 +784,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[17]
   PIN gpio_analog_en[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -792,7 +792,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[18]
   PIN gpio_analog_en[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -800,7 +800,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[19]
   PIN gpio_analog_en[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -808,7 +808,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[1]
   PIN gpio_analog_en[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -816,7 +816,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[20]
   PIN gpio_analog_en[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -824,7 +824,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[21]
   PIN gpio_analog_en[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -832,7 +832,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[22]
   PIN gpio_analog_en[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -840,7 +840,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[23]
   PIN gpio_analog_en[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -848,7 +848,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[24]
   PIN gpio_analog_en[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -856,7 +856,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[25]
   PIN gpio_analog_en[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -864,7 +864,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[26]
   PIN gpio_analog_en[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -872,7 +872,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[27]
   PIN gpio_analog_en[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -880,7 +880,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[28]
   PIN gpio_analog_en[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -888,7 +888,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[29]
   PIN gpio_analog_en[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -896,7 +896,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[2]
   PIN gpio_analog_en[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -904,7 +904,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[30]
   PIN gpio_analog_en[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -912,7 +912,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[31]
   PIN gpio_analog_en[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -920,7 +920,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[32]
   PIN gpio_analog_en[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -928,7 +928,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[33]
   PIN gpio_analog_en[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -936,7 +936,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[34]
   PIN gpio_analog_en[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -944,7 +944,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[35]
   PIN gpio_analog_en[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -952,7 +952,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[36]
   PIN gpio_analog_en[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -960,7 +960,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[37]
   PIN gpio_analog_en[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -968,7 +968,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[38]
   PIN gpio_analog_en[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -976,7 +976,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[39]
   PIN gpio_analog_en[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -984,7 +984,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[3]
   PIN gpio_analog_en[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -992,7 +992,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[40]
   PIN gpio_analog_en[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1000,7 +1000,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[41]
   PIN gpio_analog_en[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1008,7 +1008,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[42]
   PIN gpio_analog_en[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1016,7 +1016,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[43]
   PIN gpio_analog_en[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1024,7 +1024,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[4]
   PIN gpio_analog_en[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1032,7 +1032,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[5]
   PIN gpio_analog_en[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1040,7 +1040,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[6]
   PIN gpio_analog_en[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1048,7 +1048,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[7]
   PIN gpio_analog_en[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1056,7 +1056,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[8]
   PIN gpio_analog_en[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1064,7 +1064,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_en[9]
   PIN gpio_analog_pol[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1072,7 +1072,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[0]
   PIN gpio_analog_pol[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1080,7 +1080,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[10]
   PIN gpio_analog_pol[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1088,7 +1088,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[11]
   PIN gpio_analog_pol[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1096,7 +1096,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[12]
   PIN gpio_analog_pol[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1104,7 +1104,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[13]
   PIN gpio_analog_pol[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1112,7 +1112,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[14]
   PIN gpio_analog_pol[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1120,7 +1120,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[15]
   PIN gpio_analog_pol[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1128,7 +1128,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[16]
   PIN gpio_analog_pol[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1136,7 +1136,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[17]
   PIN gpio_analog_pol[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1144,7 +1144,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[18]
   PIN gpio_analog_pol[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1152,7 +1152,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[19]
   PIN gpio_analog_pol[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1160,7 +1160,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[1]
   PIN gpio_analog_pol[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1168,15 +1168,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[20]
   PIN gpio_analog_pol[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 728.580 4766.350 728.860 4768.630 ;
+        RECT 728.580 4766.220 728.860 4768.630 ;
     END
   END gpio_analog_pol[21]
   PIN gpio_analog_pol[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1184,7 +1184,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[22]
   PIN gpio_analog_pol[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1192,7 +1192,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[23]
   PIN gpio_analog_pol[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1200,7 +1200,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[24]
   PIN gpio_analog_pol[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1208,7 +1208,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[25]
   PIN gpio_analog_pol[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1216,7 +1216,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[26]
   PIN gpio_analog_pol[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1224,7 +1224,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[27]
   PIN gpio_analog_pol[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1232,7 +1232,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[28]
   PIN gpio_analog_pol[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1240,7 +1240,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[29]
   PIN gpio_analog_pol[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1248,7 +1248,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[2]
   PIN gpio_analog_pol[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1256,7 +1256,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[30]
   PIN gpio_analog_pol[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1264,7 +1264,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[31]
   PIN gpio_analog_pol[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1272,7 +1272,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[32]
   PIN gpio_analog_pol[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1280,7 +1280,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[33]
   PIN gpio_analog_pol[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1288,7 +1288,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[34]
   PIN gpio_analog_pol[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1296,7 +1296,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[35]
   PIN gpio_analog_pol[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1304,7 +1304,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[36]
   PIN gpio_analog_pol[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1312,7 +1312,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[37]
   PIN gpio_analog_pol[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1320,7 +1320,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[38]
   PIN gpio_analog_pol[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1328,7 +1328,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[39]
   PIN gpio_analog_pol[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1336,7 +1336,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[3]
   PIN gpio_analog_pol[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1344,7 +1344,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[40]
   PIN gpio_analog_pol[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1352,7 +1352,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[41]
   PIN gpio_analog_pol[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1360,7 +1360,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[42]
   PIN gpio_analog_pol[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1368,7 +1368,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[43]
   PIN gpio_analog_pol[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1376,7 +1376,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[4]
   PIN gpio_analog_pol[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1384,7 +1384,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[5]
   PIN gpio_analog_pol[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1392,15 +1392,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[6]
   PIN gpio_analog_pol[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT 3166.330 2563.740 3168.630 2564.090 ;
+        RECT 3166.030 2563.740 3168.630 2564.090 ;
     END
   END gpio_analog_pol[7]
   PIN gpio_analog_pol[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1408,7 +1408,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[8]
   PIN gpio_analog_pol[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1416,7 +1416,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_pol[9]
   PIN gpio_analog_sel[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1424,7 +1424,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[0]
   PIN gpio_analog_sel[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1432,7 +1432,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[10]
   PIN gpio_analog_sel[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1440,15 +1440,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[11]
   PIN gpio_analog_sel[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT 3166.330 3705.920 3168.630 3706.270 ;
+        RECT 3166.030 3705.920 3168.630 3706.270 ;
     END
   END gpio_analog_sel[12]
   PIN gpio_analog_sel[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1456,7 +1456,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[13]
   PIN gpio_analog_sel[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1464,7 +1464,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[14]
   PIN gpio_analog_sel[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1472,7 +1472,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[15]
   PIN gpio_analog_sel[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1480,7 +1480,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[16]
   PIN gpio_analog_sel[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1488,7 +1488,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[17]
   PIN gpio_analog_sel[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1496,15 +1496,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[18]
   PIN gpio_analog_sel[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 1228.400 4766.350 1228.680 4768.630 ;
+        RECT 1228.400 4766.220 1228.680 4768.630 ;
     END
   END gpio_analog_sel[19]
   PIN gpio_analog_sel[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1512,7 +1512,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[1]
   PIN gpio_analog_sel[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1520,7 +1520,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[20]
   PIN gpio_analog_sel[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1528,7 +1528,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[21]
   PIN gpio_analog_sel[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1536,7 +1536,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[22]
   PIN gpio_analog_sel[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1544,7 +1544,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[23]
   PIN gpio_analog_sel[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1552,7 +1552,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[24]
   PIN gpio_analog_sel[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1560,7 +1560,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[25]
   PIN gpio_analog_sel[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1568,7 +1568,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[26]
   PIN gpio_analog_sel[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1576,7 +1576,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[27]
   PIN gpio_analog_sel[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1584,7 +1584,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[28]
   PIN gpio_analog_sel[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1592,7 +1592,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[29]
   PIN gpio_analog_sel[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1600,7 +1600,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[2]
   PIN gpio_analog_sel[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1608,7 +1608,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[30]
   PIN gpio_analog_sel[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1616,7 +1616,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[31]
   PIN gpio_analog_sel[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1624,7 +1624,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[32]
   PIN gpio_analog_sel[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1632,7 +1632,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[33]
   PIN gpio_analog_sel[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1640,7 +1640,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[34]
   PIN gpio_analog_sel[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1648,7 +1648,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[35]
   PIN gpio_analog_sel[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1656,7 +1656,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[36]
   PIN gpio_analog_sel[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1664,7 +1664,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[37]
   PIN gpio_analog_sel[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1672,7 +1672,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[38]
   PIN gpio_analog_sel[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1680,7 +1680,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[39]
   PIN gpio_analog_sel[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1688,7 +1688,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[3]
   PIN gpio_analog_sel[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1696,7 +1696,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[40]
   PIN gpio_analog_sel[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1704,7 +1704,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[41]
   PIN gpio_analog_sel[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1712,7 +1712,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[42]
   PIN gpio_analog_sel[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1720,7 +1720,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[43]
   PIN gpio_analog_sel[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1728,15 +1728,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[4]
   PIN gpio_analog_sel[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT 3166.330 1466.920 3168.630 1467.270 ;
+        RECT 3166.030 1466.920 3168.630 1467.270 ;
     END
   END gpio_analog_sel[5]
   PIN gpio_analog_sel[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1744,7 +1744,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[6]
   PIN gpio_analog_sel[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1752,7 +1752,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[7]
   PIN gpio_analog_sel[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1760,7 +1760,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[8]
   PIN gpio_analog_sel[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1768,7 +1768,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_analog_sel[9]
   PIN gpio_dm0[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1776,7 +1776,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[0]
   PIN gpio_dm0[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1784,7 +1784,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[10]
   PIN gpio_dm0[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1792,7 +1792,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[11]
   PIN gpio_dm0[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1800,7 +1800,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[12]
   PIN gpio_dm0[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1808,7 +1808,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[13]
   PIN gpio_dm0[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1816,7 +1816,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[14]
   PIN gpio_dm0[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1824,7 +1824,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[15]
   PIN gpio_dm0[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1832,7 +1832,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[16]
   PIN gpio_dm0[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1840,7 +1840,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[17]
   PIN gpio_dm0[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1848,7 +1848,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[18]
   PIN gpio_dm0[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1856,7 +1856,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[19]
   PIN gpio_dm0[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1864,7 +1864,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[1]
   PIN gpio_dm0[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1872,7 +1872,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[20]
   PIN gpio_dm0[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1880,7 +1880,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[21]
   PIN gpio_dm0[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1888,7 +1888,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[22]
   PIN gpio_dm0[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -1896,7 +1896,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[23]
   PIN gpio_dm0[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1904,7 +1904,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[24]
   PIN gpio_dm0[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1912,7 +1912,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[25]
   PIN gpio_dm0[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1920,7 +1920,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[26]
   PIN gpio_dm0[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1928,7 +1928,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[27]
   PIN gpio_dm0[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1936,7 +1936,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[28]
   PIN gpio_dm0[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1944,7 +1944,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[29]
   PIN gpio_dm0[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1952,7 +1952,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[2]
   PIN gpio_dm0[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1960,7 +1960,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[30]
   PIN gpio_dm0[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1968,7 +1968,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[31]
   PIN gpio_dm0[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1976,7 +1976,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[32]
   PIN gpio_dm0[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1984,7 +1984,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[33]
   PIN gpio_dm0[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -1992,7 +1992,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[34]
   PIN gpio_dm0[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2000,7 +2000,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[35]
   PIN gpio_dm0[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2008,7 +2008,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[36]
   PIN gpio_dm0[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2016,7 +2016,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[37]
   PIN gpio_dm0[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2024,7 +2024,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[38]
   PIN gpio_dm0[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2032,7 +2032,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[39]
   PIN gpio_dm0[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2040,7 +2040,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[3]
   PIN gpio_dm0[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2048,7 +2048,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[40]
   PIN gpio_dm0[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2056,7 +2056,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[41]
   PIN gpio_dm0[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2064,7 +2064,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[42]
   PIN gpio_dm0[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2072,7 +2072,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[43]
   PIN gpio_dm0[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2080,7 +2080,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[4]
   PIN gpio_dm0[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2088,7 +2088,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[5]
   PIN gpio_dm0[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2096,7 +2096,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[6]
   PIN gpio_dm0[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2104,7 +2104,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[7]
   PIN gpio_dm0[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2112,7 +2112,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[8]
   PIN gpio_dm0[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2120,7 +2120,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm0[9]
   PIN gpio_dm1[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2128,7 +2128,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[0]
   PIN gpio_dm1[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2136,7 +2136,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[10]
   PIN gpio_dm1[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2144,7 +2144,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[11]
   PIN gpio_dm1[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2152,7 +2152,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[12]
   PIN gpio_dm1[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2160,7 +2160,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[13]
   PIN gpio_dm1[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2168,7 +2168,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[14]
   PIN gpio_dm1[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2176,7 +2176,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[15]
   PIN gpio_dm1[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2184,7 +2184,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[16]
   PIN gpio_dm1[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2192,7 +2192,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[17]
   PIN gpio_dm1[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2200,7 +2200,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[18]
   PIN gpio_dm1[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2208,7 +2208,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[19]
   PIN gpio_dm1[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2216,7 +2216,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[1]
   PIN gpio_dm1[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2224,7 +2224,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[20]
   PIN gpio_dm1[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2232,7 +2232,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[21]
   PIN gpio_dm1[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2240,7 +2240,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[22]
   PIN gpio_dm1[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2248,7 +2248,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[23]
   PIN gpio_dm1[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2256,7 +2256,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[24]
   PIN gpio_dm1[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2264,7 +2264,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[25]
   PIN gpio_dm1[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2272,7 +2272,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[26]
   PIN gpio_dm1[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2280,7 +2280,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[27]
   PIN gpio_dm1[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2288,7 +2288,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[28]
   PIN gpio_dm1[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2296,7 +2296,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[29]
   PIN gpio_dm1[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2304,7 +2304,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[2]
   PIN gpio_dm1[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2312,7 +2312,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[30]
   PIN gpio_dm1[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2320,7 +2320,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[31]
   PIN gpio_dm1[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2328,7 +2328,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[32]
   PIN gpio_dm1[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2336,7 +2336,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[33]
   PIN gpio_dm1[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2344,7 +2344,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[34]
   PIN gpio_dm1[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2352,7 +2352,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[35]
   PIN gpio_dm1[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2360,7 +2360,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[36]
   PIN gpio_dm1[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2368,7 +2368,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[37]
   PIN gpio_dm1[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2376,7 +2376,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[38]
   PIN gpio_dm1[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2384,7 +2384,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[39]
   PIN gpio_dm1[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2392,7 +2392,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[3]
   PIN gpio_dm1[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2400,7 +2400,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[40]
   PIN gpio_dm1[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2408,7 +2408,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[41]
   PIN gpio_dm1[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2416,7 +2416,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[42]
   PIN gpio_dm1[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2424,7 +2424,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[43]
   PIN gpio_dm1[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2432,7 +2432,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[4]
   PIN gpio_dm1[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2440,7 +2440,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[5]
   PIN gpio_dm1[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2448,7 +2448,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[6]
   PIN gpio_dm1[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2456,7 +2456,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[7]
   PIN gpio_dm1[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2464,7 +2464,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[8]
   PIN gpio_dm1[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2472,7 +2472,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm1[9]
   PIN gpio_dm2[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2480,7 +2480,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[0]
   PIN gpio_dm2[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2488,7 +2488,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[10]
   PIN gpio_dm2[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2496,7 +2496,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[11]
   PIN gpio_dm2[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2504,7 +2504,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[12]
   PIN gpio_dm2[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2512,7 +2512,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[13]
   PIN gpio_dm2[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2520,7 +2520,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[14]
   PIN gpio_dm2[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2528,7 +2528,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[15]
   PIN gpio_dm2[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2536,7 +2536,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[16]
   PIN gpio_dm2[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2544,7 +2544,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[17]
   PIN gpio_dm2[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2552,7 +2552,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[18]
   PIN gpio_dm2[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2560,7 +2560,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[19]
   PIN gpio_dm2[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2568,7 +2568,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[1]
   PIN gpio_dm2[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2576,7 +2576,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[20]
   PIN gpio_dm2[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2584,7 +2584,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[21]
   PIN gpio_dm2[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2592,7 +2592,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[22]
   PIN gpio_dm2[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2600,7 +2600,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[23]
   PIN gpio_dm2[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2608,7 +2608,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[24]
   PIN gpio_dm2[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2616,7 +2616,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[25]
   PIN gpio_dm2[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2624,7 +2624,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[26]
   PIN gpio_dm2[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2632,7 +2632,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[27]
   PIN gpio_dm2[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2640,7 +2640,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[28]
   PIN gpio_dm2[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2648,7 +2648,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[29]
   PIN gpio_dm2[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2656,7 +2656,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[2]
   PIN gpio_dm2[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2664,7 +2664,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[30]
   PIN gpio_dm2[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2672,7 +2672,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[31]
   PIN gpio_dm2[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2680,7 +2680,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[32]
   PIN gpio_dm2[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2688,7 +2688,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[33]
   PIN gpio_dm2[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2696,7 +2696,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[34]
   PIN gpio_dm2[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2704,7 +2704,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[35]
   PIN gpio_dm2[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2712,7 +2712,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[36]
   PIN gpio_dm2[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2720,7 +2720,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[37]
   PIN gpio_dm2[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2728,7 +2728,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[38]
   PIN gpio_dm2[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2736,7 +2736,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[39]
   PIN gpio_dm2[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2744,7 +2744,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[3]
   PIN gpio_dm2[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2752,7 +2752,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[40]
   PIN gpio_dm2[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2760,7 +2760,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[41]
   PIN gpio_dm2[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2768,7 +2768,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[42]
   PIN gpio_dm2[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2776,7 +2776,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[43]
   PIN gpio_dm2[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2784,7 +2784,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[4]
   PIN gpio_dm2[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2792,7 +2792,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[5]
   PIN gpio_dm2[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2800,7 +2800,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[6]
   PIN gpio_dm2[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2808,7 +2808,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[7]
   PIN gpio_dm2[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2816,7 +2816,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[8]
   PIN gpio_dm2[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2824,7 +2824,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_dm2[9]
   PIN gpio_holdover[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2832,7 +2832,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[0]
   PIN gpio_holdover[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2840,7 +2840,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[10]
   PIN gpio_holdover[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2848,7 +2848,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[11]
   PIN gpio_holdover[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2856,15 +2856,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[12]
   PIN gpio_holdover[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT 3166.330 4158.360 3168.630 4158.710 ;
+        RECT 3166.030 4158.360 3168.630 4158.710 ;
     END
   END gpio_holdover[13]
   PIN gpio_holdover[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2872,7 +2872,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[14]
   PIN gpio_holdover[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2880,7 +2880,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[15]
   PIN gpio_holdover[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2888,7 +2888,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[16]
   PIN gpio_holdover[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2896,7 +2896,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[17]
   PIN gpio_holdover[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2904,15 +2904,15 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[18]
   PIN gpio_holdover[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 1221.960 4766.350 1222.240 4768.630 ;
+        RECT 1221.960 4766.220 1222.240 4768.630 ;
     END
   END gpio_holdover[19]
   PIN gpio_holdover[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2920,7 +2920,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[1]
   PIN gpio_holdover[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2928,7 +2928,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[20]
   PIN gpio_holdover[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2936,7 +2936,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[21]
   PIN gpio_holdover[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2944,7 +2944,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[22]
   PIN gpio_holdover[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -2952,7 +2952,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[23]
   PIN gpio_holdover[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2960,7 +2960,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[24]
   PIN gpio_holdover[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2968,7 +2968,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[25]
   PIN gpio_holdover[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2976,7 +2976,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[26]
   PIN gpio_holdover[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2984,7 +2984,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[27]
   PIN gpio_holdover[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -2992,7 +2992,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[28]
   PIN gpio_holdover[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3000,7 +3000,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[29]
   PIN gpio_holdover[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3008,7 +3008,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[2]
   PIN gpio_holdover[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3016,7 +3016,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[30]
   PIN gpio_holdover[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3024,7 +3024,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[31]
   PIN gpio_holdover[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3032,7 +3032,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[32]
   PIN gpio_holdover[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3040,7 +3040,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[33]
   PIN gpio_holdover[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3048,7 +3048,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[34]
   PIN gpio_holdover[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3056,7 +3056,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[35]
   PIN gpio_holdover[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3064,7 +3064,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[36]
   PIN gpio_holdover[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3072,7 +3072,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[37]
   PIN gpio_holdover[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3080,7 +3080,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[38]
   PIN gpio_holdover[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3088,7 +3088,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[39]
   PIN gpio_holdover[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3096,7 +3096,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[3]
   PIN gpio_holdover[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3104,7 +3104,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[40]
   PIN gpio_holdover[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3112,7 +3112,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[41]
   PIN gpio_holdover[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3120,7 +3120,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[42]
   PIN gpio_holdover[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3128,7 +3128,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[43]
   PIN gpio_holdover[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3136,7 +3136,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[4]
   PIN gpio_holdover[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3144,7 +3144,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[5]
   PIN gpio_holdover[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3152,7 +3152,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[6]
   PIN gpio_holdover[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3160,7 +3160,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[7]
   PIN gpio_holdover[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3168,7 +3168,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[8]
   PIN gpio_holdover[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3176,7 +3176,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_holdover[9]
   PIN gpio_ib_mode_sel[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3184,7 +3184,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[0]
   PIN gpio_ib_mode_sel[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3192,7 +3192,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[10]
   PIN gpio_ib_mode_sel[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3200,7 +3200,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[11]
   PIN gpio_ib_mode_sel[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3208,7 +3208,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[12]
   PIN gpio_ib_mode_sel[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3216,7 +3216,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[13]
   PIN gpio_ib_mode_sel[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3224,7 +3224,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[14]
   PIN gpio_ib_mode_sel[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3232,7 +3232,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[15]
   PIN gpio_ib_mode_sel[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3240,7 +3240,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[16]
   PIN gpio_ib_mode_sel[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3248,7 +3248,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[17]
   PIN gpio_ib_mode_sel[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3256,7 +3256,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[18]
   PIN gpio_ib_mode_sel[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3264,7 +3264,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[19]
   PIN gpio_ib_mode_sel[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3272,7 +3272,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[1]
   PIN gpio_ib_mode_sel[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3280,7 +3280,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[20]
   PIN gpio_ib_mode_sel[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3288,7 +3288,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[21]
   PIN gpio_ib_mode_sel[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3296,7 +3296,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[22]
   PIN gpio_ib_mode_sel[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3304,7 +3304,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[23]
   PIN gpio_ib_mode_sel[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3312,7 +3312,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[24]
   PIN gpio_ib_mode_sel[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3320,7 +3320,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[25]
   PIN gpio_ib_mode_sel[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3328,7 +3328,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[26]
   PIN gpio_ib_mode_sel[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3336,7 +3336,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[27]
   PIN gpio_ib_mode_sel[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3344,7 +3344,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[28]
   PIN gpio_ib_mode_sel[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3352,7 +3352,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[29]
   PIN gpio_ib_mode_sel[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3360,7 +3360,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[2]
   PIN gpio_ib_mode_sel[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3368,7 +3368,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[30]
   PIN gpio_ib_mode_sel[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3376,7 +3376,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[31]
   PIN gpio_ib_mode_sel[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3384,7 +3384,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[32]
   PIN gpio_ib_mode_sel[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3392,7 +3392,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[33]
   PIN gpio_ib_mode_sel[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3400,7 +3400,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[34]
   PIN gpio_ib_mode_sel[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3408,7 +3408,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[35]
   PIN gpio_ib_mode_sel[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3416,7 +3416,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[36]
   PIN gpio_ib_mode_sel[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3424,7 +3424,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[37]
   PIN gpio_ib_mode_sel[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3432,7 +3432,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[38]
   PIN gpio_ib_mode_sel[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3440,7 +3440,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[39]
   PIN gpio_ib_mode_sel[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3448,7 +3448,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[3]
   PIN gpio_ib_mode_sel[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3456,7 +3456,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[40]
   PIN gpio_ib_mode_sel[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3464,7 +3464,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[41]
   PIN gpio_ib_mode_sel[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3472,7 +3472,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[42]
   PIN gpio_ib_mode_sel[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -3480,7 +3480,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[43]
   PIN gpio_ib_mode_sel[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3488,7 +3488,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[4]
   PIN gpio_ib_mode_sel[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3496,7 +3496,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[5]
   PIN gpio_ib_mode_sel[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3504,7 +3504,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[6]
   PIN gpio_ib_mode_sel[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3512,7 +3512,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[7]
   PIN gpio_ib_mode_sel[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -3520,7 +3520,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_ib_mode_sel[8]
   PIN gpio_ib_mode_sel[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4232,7 +4232,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_in_h[9]
   PIN gpio_inp_dis[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4240,7 +4240,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[0]
   PIN gpio_inp_dis[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4248,7 +4248,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[10]
   PIN gpio_inp_dis[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4256,7 +4256,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[11]
   PIN gpio_inp_dis[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4264,7 +4264,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[12]
   PIN gpio_inp_dis[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4272,7 +4272,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[13]
   PIN gpio_inp_dis[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4280,7 +4280,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[14]
   PIN gpio_inp_dis[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4288,7 +4288,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[15]
   PIN gpio_inp_dis[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4296,7 +4296,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[16]
   PIN gpio_inp_dis[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4304,7 +4304,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[17]
   PIN gpio_inp_dis[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4312,7 +4312,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[18]
   PIN gpio_inp_dis[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4320,7 +4320,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[19]
   PIN gpio_inp_dis[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4328,7 +4328,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[1]
   PIN gpio_inp_dis[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4336,7 +4336,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[20]
   PIN gpio_inp_dis[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4344,7 +4344,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[21]
   PIN gpio_inp_dis[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4352,7 +4352,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[22]
   PIN gpio_inp_dis[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4360,7 +4360,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[23]
   PIN gpio_inp_dis[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4368,7 +4368,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[24]
   PIN gpio_inp_dis[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4376,7 +4376,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[25]
   PIN gpio_inp_dis[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4384,7 +4384,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[26]
   PIN gpio_inp_dis[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4392,7 +4392,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[27]
   PIN gpio_inp_dis[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4400,7 +4400,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[28]
   PIN gpio_inp_dis[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4408,7 +4408,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[29]
   PIN gpio_inp_dis[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4416,7 +4416,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[2]
   PIN gpio_inp_dis[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4424,7 +4424,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[30]
   PIN gpio_inp_dis[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4432,7 +4432,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[31]
   PIN gpio_inp_dis[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4440,7 +4440,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[32]
   PIN gpio_inp_dis[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4448,7 +4448,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[33]
   PIN gpio_inp_dis[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4456,7 +4456,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[34]
   PIN gpio_inp_dis[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4464,7 +4464,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[35]
   PIN gpio_inp_dis[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4472,7 +4472,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[36]
   PIN gpio_inp_dis[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4480,7 +4480,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[37]
   PIN gpio_inp_dis[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4488,7 +4488,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[38]
   PIN gpio_inp_dis[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4496,7 +4496,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[39]
   PIN gpio_inp_dis[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4504,7 +4504,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[3]
   PIN gpio_inp_dis[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4512,7 +4512,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[40]
   PIN gpio_inp_dis[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4520,7 +4520,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[41]
   PIN gpio_inp_dis[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4528,7 +4528,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[42]
   PIN gpio_inp_dis[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -4536,7 +4536,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[43]
   PIN gpio_inp_dis[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4544,7 +4544,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[4]
   PIN gpio_inp_dis[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4552,7 +4552,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[5]
   PIN gpio_inp_dis[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4560,7 +4560,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[6]
   PIN gpio_inp_dis[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4568,7 +4568,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[7]
   PIN gpio_inp_dis[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -4576,7 +4576,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_inp_dis[8]
   PIN gpio_inp_dis[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5068,7 +5068,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 4523.220 0.300 4523.520 ;
+        RECT -2.000 4523.220 0.610 4523.520 ;
     END
   END gpio_loopback_zero[24]
   PIN gpio_loopback_zero[25]
@@ -5076,7 +5076,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 3673.220 0.300 3673.520 ;
+        RECT -2.000 3673.220 0.610 3673.520 ;
     END
   END gpio_loopback_zero[25]
   PIN gpio_loopback_zero[26]
@@ -5084,7 +5084,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 3458.220 0.300 3458.520 ;
+        RECT -2.000 3458.220 3.370 3458.520 ;
     END
   END gpio_loopback_zero[26]
   PIN gpio_loopback_zero[27]
@@ -5092,7 +5092,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 3243.220 0.300 3243.520 ;
+        RECT -2.000 3243.220 3.370 3243.520 ;
     END
   END gpio_loopback_zero[27]
   PIN gpio_loopback_zero[28]
@@ -5100,7 +5100,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 3028.220 0.300 3028.520 ;
+        RECT -2.000 3028.220 3.370 3028.520 ;
     END
   END gpio_loopback_zero[28]
   PIN gpio_loopback_zero[29]
@@ -5108,7 +5108,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 2813.220 0.300 2813.520 ;
+        RECT -2.000 2813.220 3.370 2813.520 ;
     END
   END gpio_loopback_zero[29]
   PIN gpio_loopback_zero[2]
@@ -5124,7 +5124,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 2598.220 0.300 2598.520 ;
+        RECT -2.000 2598.220 3.370 2598.520 ;
     END
   END gpio_loopback_zero[30]
   PIN gpio_loopback_zero[31]
@@ -5132,7 +5132,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 2383.220 0.300 2383.520 ;
+        RECT -2.000 2383.220 3.370 2383.520 ;
     END
   END gpio_loopback_zero[31]
   PIN gpio_loopback_zero[32]
@@ -5140,7 +5140,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 1738.220 0.300 1738.520 ;
+        RECT -2.000 1738.220 3.370 1738.520 ;
     END
   END gpio_loopback_zero[32]
   PIN gpio_loopback_zero[33]
@@ -5148,7 +5148,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 1523.220 0.300 1523.520 ;
+        RECT -2.000 1523.220 3.370 1523.520 ;
     END
   END gpio_loopback_zero[33]
   PIN gpio_loopback_zero[34]
@@ -5156,7 +5156,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 1308.220 0.300 1308.520 ;
+        RECT -2.000 1308.220 3.370 1308.520 ;
     END
   END gpio_loopback_zero[34]
   PIN gpio_loopback_zero[35]
@@ -5164,7 +5164,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 1093.220 0.300 1093.520 ;
+        RECT -2.000 1093.220 3.370 1093.520 ;
     END
   END gpio_loopback_zero[35]
   PIN gpio_loopback_zero[36]
@@ -5172,7 +5172,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 878.220 0.300 878.520 ;
+        RECT -2.000 878.220 3.370 878.520 ;
     END
   END gpio_loopback_zero[36]
   PIN gpio_loopback_zero[37]
@@ -5180,7 +5180,7 @@ MACRO openframe_project_wrapper
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -2.000 663.220 0.300 663.520 ;
+        RECT -2.000 663.220 3.370 663.520 ;
     END
   END gpio_loopback_zero[37]
   PIN gpio_loopback_zero[38]
@@ -5288,7 +5288,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_loopback_zero[9]
   PIN gpio_oeb[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5296,7 +5296,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[0]
   PIN gpio_oeb[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5304,7 +5304,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[10]
   PIN gpio_oeb[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5312,7 +5312,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[11]
   PIN gpio_oeb[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5320,7 +5320,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[12]
   PIN gpio_oeb[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5328,7 +5328,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[13]
   PIN gpio_oeb[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5336,7 +5336,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[14]
   PIN gpio_oeb[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5344,7 +5344,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[15]
   PIN gpio_oeb[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5352,7 +5352,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[16]
   PIN gpio_oeb[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5360,7 +5360,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[17]
   PIN gpio_oeb[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5368,7 +5368,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[18]
   PIN gpio_oeb[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5376,7 +5376,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[19]
   PIN gpio_oeb[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5384,7 +5384,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[1]
   PIN gpio_oeb[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5392,7 +5392,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[20]
   PIN gpio_oeb[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5400,7 +5400,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[21]
   PIN gpio_oeb[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5408,7 +5408,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[22]
   PIN gpio_oeb[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5416,7 +5416,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[23]
   PIN gpio_oeb[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5424,7 +5424,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[24]
   PIN gpio_oeb[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5432,7 +5432,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[25]
   PIN gpio_oeb[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5440,7 +5440,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[26]
   PIN gpio_oeb[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5448,7 +5448,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[27]
   PIN gpio_oeb[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5456,7 +5456,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[28]
   PIN gpio_oeb[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5464,7 +5464,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[29]
   PIN gpio_oeb[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5472,7 +5472,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[2]
   PIN gpio_oeb[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5480,7 +5480,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[30]
   PIN gpio_oeb[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5488,7 +5488,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[31]
   PIN gpio_oeb[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5496,7 +5496,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[32]
   PIN gpio_oeb[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5504,7 +5504,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[33]
   PIN gpio_oeb[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5512,7 +5512,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[34]
   PIN gpio_oeb[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5520,7 +5520,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[35]
   PIN gpio_oeb[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5528,7 +5528,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[36]
   PIN gpio_oeb[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5536,7 +5536,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[37]
   PIN gpio_oeb[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5544,7 +5544,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[38]
   PIN gpio_oeb[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5552,7 +5552,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[39]
   PIN gpio_oeb[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5560,7 +5560,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[3]
   PIN gpio_oeb[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5568,7 +5568,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[40]
   PIN gpio_oeb[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5576,7 +5576,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[41]
   PIN gpio_oeb[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5584,7 +5584,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[42]
   PIN gpio_oeb[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5592,7 +5592,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[43]
   PIN gpio_oeb[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5600,7 +5600,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[4]
   PIN gpio_oeb[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5608,7 +5608,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[5]
   PIN gpio_oeb[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5616,7 +5616,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[6]
   PIN gpio_oeb[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5624,7 +5624,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[7]
   PIN gpio_oeb[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5632,7 +5632,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[8]
   PIN gpio_oeb[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5640,7 +5640,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_oeb[9]
   PIN gpio_out[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5648,7 +5648,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[0]
   PIN gpio_out[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5656,7 +5656,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[10]
   PIN gpio_out[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5664,7 +5664,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[11]
   PIN gpio_out[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5672,7 +5672,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[12]
   PIN gpio_out[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5680,7 +5680,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[13]
   PIN gpio_out[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5688,7 +5688,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[14]
   PIN gpio_out[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5696,7 +5696,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[15]
   PIN gpio_out[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5704,7 +5704,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[16]
   PIN gpio_out[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5712,7 +5712,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[17]
   PIN gpio_out[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5720,7 +5720,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[18]
   PIN gpio_out[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5728,7 +5728,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[19]
   PIN gpio_out[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5736,7 +5736,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[1]
   PIN gpio_out[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5744,7 +5744,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[20]
   PIN gpio_out[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5752,7 +5752,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[21]
   PIN gpio_out[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5760,7 +5760,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[22]
   PIN gpio_out[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5768,7 +5768,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[23]
   PIN gpio_out[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5776,7 +5776,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[24]
   PIN gpio_out[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5784,7 +5784,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[25]
   PIN gpio_out[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5792,7 +5792,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[26]
   PIN gpio_out[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5800,7 +5800,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[27]
   PIN gpio_out[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5808,7 +5808,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[28]
   PIN gpio_out[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5816,7 +5816,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[29]
   PIN gpio_out[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5824,7 +5824,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[2]
   PIN gpio_out[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5832,7 +5832,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[30]
   PIN gpio_out[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5840,7 +5840,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[31]
   PIN gpio_out[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5848,7 +5848,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[32]
   PIN gpio_out[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5856,7 +5856,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[33]
   PIN gpio_out[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5864,7 +5864,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[34]
   PIN gpio_out[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5872,7 +5872,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[35]
   PIN gpio_out[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5880,7 +5880,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[36]
   PIN gpio_out[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5888,7 +5888,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[37]
   PIN gpio_out[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5896,7 +5896,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[38]
   PIN gpio_out[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5904,7 +5904,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[39]
   PIN gpio_out[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5912,7 +5912,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[3]
   PIN gpio_out[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5920,7 +5920,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[40]
   PIN gpio_out[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5928,7 +5928,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[41]
   PIN gpio_out[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5936,7 +5936,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[42]
   PIN gpio_out[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -5944,7 +5944,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[43]
   PIN gpio_out[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5952,7 +5952,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[4]
   PIN gpio_out[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5960,7 +5960,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[5]
   PIN gpio_out[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5968,7 +5968,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[6]
   PIN gpio_out[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5976,7 +5976,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[7]
   PIN gpio_out[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5984,7 +5984,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[8]
   PIN gpio_out[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -5992,7 +5992,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_out[9]
   PIN gpio_slow_sel[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6000,7 +6000,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[0]
   PIN gpio_slow_sel[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6008,7 +6008,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[10]
   PIN gpio_slow_sel[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6016,7 +6016,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[11]
   PIN gpio_slow_sel[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6024,7 +6024,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[12]
   PIN gpio_slow_sel[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6032,7 +6032,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[13]
   PIN gpio_slow_sel[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6040,7 +6040,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[14]
   PIN gpio_slow_sel[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6048,7 +6048,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[15]
   PIN gpio_slow_sel[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6056,7 +6056,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[16]
   PIN gpio_slow_sel[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6064,7 +6064,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[17]
   PIN gpio_slow_sel[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6072,7 +6072,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[18]
   PIN gpio_slow_sel[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6080,7 +6080,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[19]
   PIN gpio_slow_sel[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6088,7 +6088,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[1]
   PIN gpio_slow_sel[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6096,7 +6096,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[20]
   PIN gpio_slow_sel[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6104,7 +6104,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[21]
   PIN gpio_slow_sel[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6112,7 +6112,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[22]
   PIN gpio_slow_sel[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6120,7 +6120,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[23]
   PIN gpio_slow_sel[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6128,7 +6128,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[24]
   PIN gpio_slow_sel[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6136,7 +6136,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[25]
   PIN gpio_slow_sel[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6144,7 +6144,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[26]
   PIN gpio_slow_sel[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6152,7 +6152,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[27]
   PIN gpio_slow_sel[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6160,7 +6160,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[28]
   PIN gpio_slow_sel[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6168,7 +6168,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[29]
   PIN gpio_slow_sel[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6176,7 +6176,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[2]
   PIN gpio_slow_sel[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6184,7 +6184,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[30]
   PIN gpio_slow_sel[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6192,7 +6192,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[31]
   PIN gpio_slow_sel[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6200,7 +6200,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[32]
   PIN gpio_slow_sel[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6208,7 +6208,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[33]
   PIN gpio_slow_sel[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6216,7 +6216,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[34]
   PIN gpio_slow_sel[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6224,7 +6224,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[35]
   PIN gpio_slow_sel[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6232,7 +6232,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[36]
   PIN gpio_slow_sel[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6240,7 +6240,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[37]
   PIN gpio_slow_sel[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6248,7 +6248,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[38]
   PIN gpio_slow_sel[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6256,7 +6256,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[39]
   PIN gpio_slow_sel[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6264,7 +6264,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[3]
   PIN gpio_slow_sel[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6272,7 +6272,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[40]
   PIN gpio_slow_sel[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6280,7 +6280,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[41]
   PIN gpio_slow_sel[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6288,7 +6288,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[42]
   PIN gpio_slow_sel[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6296,7 +6296,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[43]
   PIN gpio_slow_sel[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6304,7 +6304,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[4]
   PIN gpio_slow_sel[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6312,7 +6312,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[5]
   PIN gpio_slow_sel[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6320,7 +6320,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[6]
   PIN gpio_slow_sel[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6328,7 +6328,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[7]
   PIN gpio_slow_sel[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6336,7 +6336,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[8]
   PIN gpio_slow_sel[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6344,7 +6344,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_slow_sel[9]
   PIN gpio_vtrip_sel[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6352,7 +6352,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[0]
   PIN gpio_vtrip_sel[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6360,7 +6360,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[10]
   PIN gpio_vtrip_sel[11]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6368,7 +6368,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[11]
   PIN gpio_vtrip_sel[12]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6376,7 +6376,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[12]
   PIN gpio_vtrip_sel[13]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6384,7 +6384,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[13]
   PIN gpio_vtrip_sel[14]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6392,7 +6392,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[14]
   PIN gpio_vtrip_sel[15]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6400,7 +6400,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[15]
   PIN gpio_vtrip_sel[16]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6408,7 +6408,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[16]
   PIN gpio_vtrip_sel[17]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6416,7 +6416,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[17]
   PIN gpio_vtrip_sel[18]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6424,7 +6424,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[18]
   PIN gpio_vtrip_sel[19]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6432,7 +6432,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[19]
   PIN gpio_vtrip_sel[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6440,7 +6440,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[1]
   PIN gpio_vtrip_sel[20]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6448,7 +6448,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[20]
   PIN gpio_vtrip_sel[21]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6456,7 +6456,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[21]
   PIN gpio_vtrip_sel[22]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6464,7 +6464,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[22]
   PIN gpio_vtrip_sel[23]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6472,7 +6472,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[23]
   PIN gpio_vtrip_sel[24]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6480,7 +6480,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[24]
   PIN gpio_vtrip_sel[25]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6488,7 +6488,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[25]
   PIN gpio_vtrip_sel[26]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6496,7 +6496,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[26]
   PIN gpio_vtrip_sel[27]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6504,7 +6504,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[27]
   PIN gpio_vtrip_sel[28]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6512,7 +6512,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[28]
   PIN gpio_vtrip_sel[29]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6520,7 +6520,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[29]
   PIN gpio_vtrip_sel[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6528,7 +6528,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[2]
   PIN gpio_vtrip_sel[30]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6536,7 +6536,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[30]
   PIN gpio_vtrip_sel[31]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6544,7 +6544,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[31]
   PIN gpio_vtrip_sel[32]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6552,7 +6552,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[32]
   PIN gpio_vtrip_sel[33]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6560,7 +6560,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[33]
   PIN gpio_vtrip_sel[34]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6568,7 +6568,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[34]
   PIN gpio_vtrip_sel[35]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6576,7 +6576,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[35]
   PIN gpio_vtrip_sel[36]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6584,7 +6584,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[36]
   PIN gpio_vtrip_sel[37]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6592,7 +6592,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[37]
   PIN gpio_vtrip_sel[38]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6600,7 +6600,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[38]
   PIN gpio_vtrip_sel[39]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6608,7 +6608,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[39]
   PIN gpio_vtrip_sel[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6616,7 +6616,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[3]
   PIN gpio_vtrip_sel[40]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6624,7 +6624,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[40]
   PIN gpio_vtrip_sel[41]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6632,7 +6632,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[41]
   PIN gpio_vtrip_sel[42]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6640,7 +6640,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[42]
   PIN gpio_vtrip_sel[43]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
@@ -6648,7 +6648,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[43]
   PIN gpio_vtrip_sel[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6656,7 +6656,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[4]
   PIN gpio_vtrip_sel[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6664,7 +6664,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[5]
   PIN gpio_vtrip_sel[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6672,7 +6672,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[6]
   PIN gpio_vtrip_sel[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6680,7 +6680,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[7]
   PIN gpio_vtrip_sel[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -6688,7 +6688,7 @@ MACRO openframe_project_wrapper
     END
   END gpio_vtrip_sel[8]
   PIN gpio_vtrip_sel[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -7348,11 +7348,11 @@ MACRO openframe_project_wrapper
     END
     PORT
       LAYER met4 ;
-        RECT 3015.250 2.400 3021.650 1472.275 ;
+        RECT 3015.250 2.400 3021.650 285.975 ;
     END
     PORT
       LAYER met4 ;
-        RECT 3015.250 2213.445 3021.650 4763.040 ;
+        RECT 3015.250 1864.305 3021.650 4763.040 ;
     END
     PORT
       LAYER met4 ;
@@ -8916,10 +8916,12 @@ MACRO openframe_project_wrapper
     END
   END vssio
   OBS
+      LAYER nwell ;
+        RECT 2855.690 245.795 3044.670 3722.125 ;
       LAYER li1 ;
         RECT 2855.880 245.795 3044.480 3722.125 ;
       LAYER met1 ;
-        RECT 198.790 0.040 3045.330 4766.420 ;
+        RECT 2.830 0.040 3045.790 4766.420 ;
       LAYER met2 ;
         RECT 0.090 4766.070 137.210 4766.530 ;
         RECT 138.070 4766.070 147.210 4766.530 ;
@@ -8971,6 +8973,7 @@ MACRO openframe_project_wrapper
         RECT 710.740 4766.070 713.120 4766.530 ;
         RECT 713.960 4766.070 725.540 4766.530 ;
         RECT 726.380 4766.070 728.300 4766.530 ;
+        RECT 0.090 4765.940 728.300 4766.070 ;
         RECT 729.140 4766.070 731.520 4766.530 ;
         RECT 732.360 4766.070 734.740 4766.530 ;
         RECT 735.580 4766.070 737.105 4766.530 ;
@@ -9005,8 +9008,10 @@ MACRO openframe_project_wrapper
         RECT 1207.340 4766.070 1209.720 4766.530 ;
         RECT 1210.560 4766.070 1218.920 4766.530 ;
         RECT 1219.760 4766.070 1221.680 4766.530 ;
+        RECT 729.140 4765.940 1221.680 4766.070 ;
         RECT 1222.520 4766.070 1224.900 4766.530 ;
         RECT 1225.740 4766.070 1228.120 4766.530 ;
+        RECT 1222.520 4765.940 1228.120 4766.070 ;
         RECT 1228.960 4766.070 1240.540 4766.530 ;
         RECT 1241.380 4766.070 1243.300 4766.530 ;
         RECT 1244.140 4766.070 1246.520 4766.530 ;
@@ -9093,7 +9098,8 @@ MACRO openframe_project_wrapper
         RECT 2982.720 4766.070 2984.920 4766.530 ;
         RECT 2985.760 4766.070 2994.120 4766.530 ;
         RECT 2994.960 4766.070 3166.550 4766.530 ;
-        RECT 0.090 0.560 3166.550 4766.070 ;
+        RECT 1228.960 4765.940 3166.550 4766.070 ;
+        RECT 0.090 0.560 3166.550 4765.940 ;
         RECT 0.090 0.010 497.600 0.560 ;
         RECT 498.440 0.010 550.540 0.560 ;
         RECT 551.380 0.010 725.670 0.560 ;
@@ -9319,7 +9325,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 4533.920 3166.630 4551.520 ;
         RECT 0.700 4532.820 3166.630 4533.920 ;
         RECT 0.000 4523.920 3166.630 4532.820 ;
-        RECT 0.700 4522.820 3166.630 4523.920 ;
+        RECT 1.010 4522.820 3166.630 4523.920 ;
         RECT 0.000 4424.420 3166.630 4522.820 ;
         RECT 0.700 4402.210 3166.630 4424.420 ;
         RECT 0.700 4401.810 3165.930 4402.210 ;
@@ -9351,7 +9357,7 @@ MACRO openframe_project_wrapper
         RECT 0.700 4161.870 3166.630 4163.110 ;
         RECT 0.700 4160.720 3165.930 4161.870 ;
         RECT 0.700 4159.110 3166.630 4160.720 ;
-        RECT 0.700 4157.960 3165.930 4159.110 ;
+        RECT 0.700 4157.960 3165.630 4159.110 ;
         RECT 0.700 4155.890 3166.630 4157.960 ;
         RECT 0.700 4154.740 3165.930 4155.890 ;
         RECT 0.700 4152.670 3166.630 4154.740 ;
@@ -9436,7 +9442,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 3709.890 3166.630 3711.960 ;
         RECT 0.000 3708.740 3165.930 3709.890 ;
         RECT 0.000 3706.670 3166.630 3708.740 ;
-        RECT 0.000 3705.520 3165.930 3706.670 ;
+        RECT 0.000 3705.520 3165.630 3706.670 ;
         RECT 0.000 3694.250 3166.630 3705.520 ;
         RECT 0.000 3693.100 3165.930 3694.250 ;
         RECT 0.000 3691.490 3166.630 3693.100 ;
@@ -9452,8 +9458,8 @@ MACRO openframe_project_wrapper
         RECT 0.000 3679.070 3166.630 3680.775 ;
         RECT 0.000 3677.920 3165.930 3679.070 ;
         RECT 0.000 3673.920 3166.630 3677.920 ;
-        RECT 0.700 3673.230 3166.630 3673.920 ;
-        RECT 0.700 3672.820 3165.930 3673.230 ;
+        RECT 1.010 3673.230 3166.630 3673.920 ;
+        RECT 1.010 3672.820 3165.930 3673.230 ;
         RECT 0.000 3671.790 3165.930 3672.820 ;
         RECT 0.000 3669.870 3166.630 3671.790 ;
         RECT 0.000 3668.720 3165.930 3669.870 ;
@@ -9523,8 +9529,8 @@ MACRO openframe_project_wrapper
         RECT 0.000 3462.120 3165.930 3463.270 ;
         RECT 0.000 3460.050 3166.630 3462.120 ;
         RECT 0.000 3458.920 3165.930 3460.050 ;
-        RECT 0.700 3458.900 3165.930 3458.920 ;
-        RECT 0.700 3457.820 3166.630 3458.900 ;
+        RECT 3.770 3458.900 3165.930 3458.920 ;
+        RECT 3.770 3457.820 3166.630 3458.900 ;
         RECT 0.000 3457.645 3166.630 3457.820 ;
         RECT 0.000 3455.775 3165.930 3457.645 ;
         RECT 0.000 3454.070 3166.630 3455.775 ;
@@ -9589,8 +9595,8 @@ MACRO openframe_project_wrapper
         RECT 0.700 3252.820 3166.630 3253.920 ;
         RECT 0.000 3244.250 3166.630 3252.820 ;
         RECT 0.000 3243.920 3165.930 3244.250 ;
-        RECT 0.700 3243.100 3165.930 3243.920 ;
-        RECT 0.700 3242.820 3166.630 3243.100 ;
+        RECT 3.770 3243.100 3165.930 3243.920 ;
+        RECT 3.770 3242.820 3166.630 3243.100 ;
         RECT 0.000 3241.490 3166.630 3242.820 ;
         RECT 0.000 3240.340 3165.930 3241.490 ;
         RECT 0.000 3238.270 3166.630 3240.340 ;
@@ -9664,7 +9670,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 3030.670 3166.630 3032.740 ;
         RECT 0.000 3029.520 3165.930 3030.670 ;
         RECT 0.000 3028.920 3166.630 3029.520 ;
-        RECT 0.700 3027.820 3166.630 3028.920 ;
+        RECT 3.770 3027.820 3166.630 3028.920 ;
         RECT 0.000 3018.250 3166.630 3027.820 ;
         RECT 0.000 3017.100 3165.930 3018.250 ;
         RECT 0.000 3015.490 3166.630 3017.100 ;
@@ -9733,8 +9739,8 @@ MACRO openframe_project_wrapper
         RECT 0.700 2822.820 3166.630 2822.920 ;
         RECT 0.000 2814.870 3166.630 2822.820 ;
         RECT 0.000 2813.920 3165.930 2814.870 ;
-        RECT 0.700 2813.720 3165.930 2813.920 ;
-        RECT 0.700 2812.820 3166.630 2813.720 ;
+        RECT 3.770 2813.720 3165.930 2813.920 ;
+        RECT 3.770 2812.820 3166.630 2813.720 ;
         RECT 0.000 2812.110 3166.630 2812.820 ;
         RECT 0.000 2810.960 3165.930 2812.110 ;
         RECT 0.000 2808.890 3166.630 2810.960 ;
@@ -9806,8 +9812,8 @@ MACRO openframe_project_wrapper
         RECT 0.000 2601.290 3166.630 2603.360 ;
         RECT 0.000 2600.140 3165.930 2601.290 ;
         RECT 0.000 2598.920 3166.630 2600.140 ;
-        RECT 0.700 2598.070 3166.630 2598.920 ;
-        RECT 0.700 2597.820 3165.930 2598.070 ;
+        RECT 3.770 2598.070 3166.630 2598.920 ;
+        RECT 3.770 2597.820 3165.930 2598.070 ;
         RECT 0.000 2596.920 3165.930 2597.820 ;
         RECT 0.000 2588.870 3166.630 2596.920 ;
         RECT 0.000 2587.720 3165.930 2588.870 ;
@@ -9820,7 +9826,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 2567.250 3166.630 2578.520 ;
         RECT 0.000 2566.100 3165.930 2567.250 ;
         RECT 0.000 2564.490 3166.630 2566.100 ;
-        RECT 0.000 2563.340 3165.930 2564.490 ;
+        RECT 0.000 2563.340 3165.630 2564.490 ;
         RECT 0.000 2561.270 3166.630 2563.340 ;
         RECT 0.000 2560.120 3165.930 2561.270 ;
         RECT 0.000 2558.050 3166.630 2560.120 ;
@@ -9872,8 +9878,8 @@ MACRO openframe_project_wrapper
         RECT 0.000 2393.920 3166.630 2416.360 ;
         RECT 0.700 2392.820 3166.630 2393.920 ;
         RECT 0.000 2383.920 3166.630 2392.820 ;
-        RECT 0.700 2383.220 3166.630 2383.920 ;
-        RECT 0.700 2382.820 3165.930 2383.220 ;
+        RECT 3.770 2383.220 3166.630 2383.920 ;
+        RECT 3.770 2382.820 3165.930 2383.220 ;
         RECT 0.000 2358.520 3165.930 2382.820 ;
         RECT 0.000 2333.320 3166.630 2358.520 ;
         RECT 0.000 2308.620 3165.930 2333.320 ;
@@ -9937,7 +9943,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 1740.740 3166.630 1747.820 ;
         RECT 0.000 1739.630 3165.930 1740.740 ;
         RECT 0.000 1738.920 3166.630 1739.630 ;
-        RECT 0.700 1737.820 3166.630 1738.920 ;
+        RECT 3.770 1737.820 3166.630 1738.920 ;
         RECT 0.000 1730.735 3166.630 1737.820 ;
         RECT 0.000 1729.625 3165.930 1730.735 ;
         RECT 0.000 1721.270 3166.630 1729.625 ;
@@ -10011,7 +10017,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 1533.920 3166.630 1562.360 ;
         RECT 0.700 1532.820 3166.630 1533.920 ;
         RECT 0.000 1523.920 3166.630 1532.820 ;
-        RECT 0.700 1522.820 3166.630 1523.920 ;
+        RECT 3.770 1522.820 3166.630 1523.920 ;
         RECT 0.000 1515.740 3166.630 1522.820 ;
         RECT 0.000 1514.630 3165.930 1515.740 ;
         RECT 0.000 1505.735 3166.630 1514.630 ;
@@ -10031,7 +10037,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 1470.890 3166.630 1472.960 ;
         RECT 0.000 1469.740 3165.930 1470.890 ;
         RECT 0.000 1467.670 3166.630 1469.740 ;
-        RECT 0.000 1466.520 3165.930 1467.670 ;
+        RECT 0.000 1466.520 3165.630 1467.670 ;
         RECT 0.000 1455.250 3166.630 1466.520 ;
         RECT 0.000 1454.100 3165.930 1455.250 ;
         RECT 0.000 1452.490 3166.630 1454.100 ;
@@ -10087,7 +10093,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 1318.920 3166.630 1346.360 ;
         RECT 0.700 1317.820 3166.630 1318.920 ;
         RECT 0.000 1308.920 3166.630 1317.820 ;
-        RECT 0.700 1307.820 3166.630 1308.920 ;
+        RECT 3.770 1307.820 3166.630 1308.920 ;
         RECT 0.000 1290.740 3166.630 1307.820 ;
         RECT 0.000 1289.630 3165.930 1290.740 ;
         RECT 0.000 1280.735 3166.630 1289.630 ;
@@ -10163,7 +10169,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 1103.920 3166.630 1130.360 ;
         RECT 0.700 1102.820 3166.630 1103.920 ;
         RECT 0.000 1093.920 3166.630 1102.820 ;
-        RECT 0.700 1092.820 3166.630 1093.920 ;
+        RECT 3.770 1092.820 3166.630 1093.920 ;
         RECT 0.000 1065.740 3166.630 1092.820 ;
         RECT 0.000 1064.630 3165.930 1065.740 ;
         RECT 0.000 1055.735 3166.630 1064.630 ;
@@ -10239,7 +10245,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 888.920 3166.630 914.360 ;
         RECT 0.700 887.820 3166.630 888.920 ;
         RECT 0.000 878.920 3166.630 887.820 ;
-        RECT 0.700 877.820 3166.630 878.920 ;
+        RECT 3.770 877.820 3166.630 878.920 ;
         RECT 0.000 840.740 3166.630 877.820 ;
         RECT 0.000 839.630 3165.930 840.740 ;
         RECT 0.000 830.735 3166.630 839.630 ;
@@ -10315,7 +10321,7 @@ MACRO openframe_project_wrapper
         RECT 0.000 673.920 3166.630 698.360 ;
         RECT 0.700 672.820 3166.630 673.920 ;
         RECT 0.000 663.920 3166.630 672.820 ;
-        RECT 0.700 662.820 3166.630 663.920 ;
+        RECT 3.770 662.820 3166.630 663.920 ;
         RECT 0.000 615.740 3166.630 662.820 ;
         RECT 0.000 614.630 3165.930 615.740 ;
         RECT 0.000 605.735 3166.630 614.630 ;
@@ -10402,18 +10408,181 @@ MACRO openframe_project_wrapper
         RECT 0.700 179.670 3166.630 204.420 ;
         RECT 0.000 154.210 3166.630 179.670 ;
         RECT 0.700 129.410 3166.630 154.210 ;
-        RECT 0.000 13.775 3166.630 129.410 ;
+        RECT 0.000 0.700 3166.630 129.410 ;
+        RECT 0.000 0.175 183.630 0.700 ;
+        RECT 208.330 0.175 233.520 0.700 ;
+        RECT 258.220 0.175 996.020 0.700 ;
+        RECT 1019.970 0.175 1045.420 0.700 ;
+        RECT 1070.220 0.175 2634.630 0.700 ;
+        RECT 2659.330 0.175 2684.520 0.700 ;
+        RECT 2709.220 0.175 2903.630 0.700 ;
+        RECT 2928.330 0.175 2953.520 0.700 ;
+        RECT 2978.220 0.175 3166.630 0.700 ;
       LAYER met4 ;
-        RECT 2873.760 245.640 2894.850 3722.280 ;
-        RECT 2902.050 245.640 2904.450 3722.280 ;
-        RECT 2911.650 245.640 2934.850 3722.280 ;
-        RECT 2942.050 245.640 2974.850 3722.280 ;
-        RECT 2982.050 245.640 2984.450 3722.280 ;
-        RECT 2991.650 2213.045 3014.850 3722.280 ;
-        RECT 3022.050 2213.045 3034.065 3722.280 ;
-        RECT 2991.650 1472.675 3034.065 2213.045 ;
-        RECT 2991.650 245.640 3014.850 1472.675 ;
-        RECT 3022.050 245.640 3034.065 1472.675 ;
+        RECT 0.295 245.640 1.220 4611.320 ;
+        RECT 22.020 245.640 23.620 4611.320 ;
+        RECT 44.420 245.640 54.850 4611.320 ;
+        RECT 62.050 245.640 64.450 4611.320 ;
+        RECT 71.650 245.640 94.850 4611.320 ;
+        RECT 102.050 245.640 104.450 4611.320 ;
+        RECT 111.650 245.640 134.850 4611.320 ;
+        RECT 142.050 245.640 144.450 4611.320 ;
+        RECT 151.650 245.640 174.850 4611.320 ;
+        RECT 182.050 245.640 184.450 4611.320 ;
+        RECT 191.650 245.640 214.850 4611.320 ;
+        RECT 222.050 245.640 224.450 4611.320 ;
+        RECT 231.650 245.640 254.850 4611.320 ;
+        RECT 262.050 245.640 264.450 4611.320 ;
+        RECT 271.650 245.640 294.850 4611.320 ;
+        RECT 302.050 245.640 304.450 4611.320 ;
+        RECT 311.650 245.640 334.850 4611.320 ;
+        RECT 342.050 245.640 344.450 4611.320 ;
+        RECT 351.650 245.640 374.850 4611.320 ;
+        RECT 382.050 245.640 384.450 4611.320 ;
+        RECT 391.650 245.640 414.850 4611.320 ;
+        RECT 422.050 245.640 424.450 4611.320 ;
+        RECT 431.650 245.640 454.850 4611.320 ;
+        RECT 462.050 245.640 464.450 4611.320 ;
+        RECT 471.650 245.640 494.850 4611.320 ;
+        RECT 502.050 245.640 504.450 4611.320 ;
+        RECT 511.650 245.640 534.850 4611.320 ;
+        RECT 542.050 245.640 544.450 4611.320 ;
+        RECT 551.650 245.640 574.850 4611.320 ;
+        RECT 582.050 245.640 584.450 4611.320 ;
+        RECT 591.650 245.640 614.850 4611.320 ;
+        RECT 622.050 245.640 624.450 4611.320 ;
+        RECT 631.650 245.640 654.850 4611.320 ;
+        RECT 662.050 245.640 664.450 4611.320 ;
+        RECT 671.650 245.640 694.850 4611.320 ;
+        RECT 702.050 245.640 704.450 4611.320 ;
+        RECT 711.650 245.640 734.850 4611.320 ;
+        RECT 742.050 245.640 744.450 4611.320 ;
+        RECT 751.650 245.640 774.850 4611.320 ;
+        RECT 782.050 245.640 784.450 4611.320 ;
+        RECT 791.650 245.640 814.850 4611.320 ;
+        RECT 822.050 245.640 824.450 4611.320 ;
+        RECT 831.650 245.640 854.850 4611.320 ;
+        RECT 862.050 245.640 864.450 4611.320 ;
+        RECT 871.650 245.640 894.850 4611.320 ;
+        RECT 902.050 245.640 904.450 4611.320 ;
+        RECT 911.650 245.640 934.850 4611.320 ;
+        RECT 942.050 245.640 944.450 4611.320 ;
+        RECT 951.650 245.640 974.850 4611.320 ;
+        RECT 982.050 245.640 984.450 4611.320 ;
+        RECT 991.650 245.640 1014.850 4611.320 ;
+        RECT 1022.050 245.640 1024.450 4611.320 ;
+        RECT 1031.650 245.640 1054.850 4611.320 ;
+        RECT 1062.050 245.640 1064.450 4611.320 ;
+        RECT 1071.650 245.640 1094.850 4611.320 ;
+        RECT 1102.050 245.640 1104.450 4611.320 ;
+        RECT 1111.650 245.640 1134.850 4611.320 ;
+        RECT 1142.050 245.640 1144.450 4611.320 ;
+        RECT 1151.650 245.640 1174.850 4611.320 ;
+        RECT 1182.050 245.640 1184.450 4611.320 ;
+        RECT 1191.650 245.640 1214.850 4611.320 ;
+        RECT 1222.050 245.640 1224.450 4611.320 ;
+        RECT 1231.650 245.640 1254.850 4611.320 ;
+        RECT 1262.050 245.640 1264.450 4611.320 ;
+        RECT 1271.650 245.640 1294.850 4611.320 ;
+        RECT 1302.050 245.640 1304.450 4611.320 ;
+        RECT 1311.650 245.640 1334.850 4611.320 ;
+        RECT 1342.050 245.640 1344.450 4611.320 ;
+        RECT 1351.650 245.640 1374.850 4611.320 ;
+        RECT 1382.050 245.640 1384.450 4611.320 ;
+        RECT 1391.650 245.640 1414.850 4611.320 ;
+        RECT 1422.050 245.640 1424.450 4611.320 ;
+        RECT 1431.650 245.640 1454.850 4611.320 ;
+        RECT 1462.050 245.640 1464.450 4611.320 ;
+        RECT 1471.650 245.640 1494.850 4611.320 ;
+        RECT 1502.050 245.640 1504.450 4611.320 ;
+        RECT 1511.650 245.640 1534.850 4611.320 ;
+        RECT 1542.050 245.640 1544.450 4611.320 ;
+        RECT 1551.650 245.640 1574.850 4611.320 ;
+        RECT 1582.050 245.640 1584.450 4611.320 ;
+        RECT 1591.650 245.640 1614.850 4611.320 ;
+        RECT 1622.050 245.640 1624.450 4611.320 ;
+        RECT 1631.650 245.640 1654.850 4611.320 ;
+        RECT 1662.050 245.640 1664.450 4611.320 ;
+        RECT 1671.650 245.640 1694.850 4611.320 ;
+        RECT 1702.050 245.640 1704.450 4611.320 ;
+        RECT 1711.650 245.640 1734.850 4611.320 ;
+        RECT 1742.050 245.640 1744.450 4611.320 ;
+        RECT 1751.650 245.640 1774.850 4611.320 ;
+        RECT 1782.050 245.640 1784.450 4611.320 ;
+        RECT 1791.650 245.640 1814.850 4611.320 ;
+        RECT 1822.050 245.640 1824.450 4611.320 ;
+        RECT 1831.650 245.640 1854.850 4611.320 ;
+        RECT 1862.050 245.640 1864.450 4611.320 ;
+        RECT 1871.650 245.640 1894.850 4611.320 ;
+        RECT 1902.050 245.640 1904.450 4611.320 ;
+        RECT 1911.650 245.640 1934.850 4611.320 ;
+        RECT 1942.050 245.640 1944.450 4611.320 ;
+        RECT 1951.650 245.640 1974.850 4611.320 ;
+        RECT 1982.050 245.640 1984.450 4611.320 ;
+        RECT 1991.650 245.640 2014.850 4611.320 ;
+        RECT 2022.050 245.640 2024.450 4611.320 ;
+        RECT 2031.650 245.640 2054.850 4611.320 ;
+        RECT 2062.050 245.640 2064.450 4611.320 ;
+        RECT 2071.650 245.640 2094.850 4611.320 ;
+        RECT 2102.050 245.640 2104.450 4611.320 ;
+        RECT 2111.650 245.640 2134.850 4611.320 ;
+        RECT 2142.050 245.640 2144.450 4611.320 ;
+        RECT 2151.650 245.640 2174.850 4611.320 ;
+        RECT 2182.050 245.640 2184.450 4611.320 ;
+        RECT 2191.650 245.640 2214.850 4611.320 ;
+        RECT 2222.050 245.640 2224.450 4611.320 ;
+        RECT 2231.650 245.640 2254.850 4611.320 ;
+        RECT 2262.050 245.640 2264.450 4611.320 ;
+        RECT 2271.650 245.640 2294.850 4611.320 ;
+        RECT 2302.050 245.640 2304.450 4611.320 ;
+        RECT 2311.650 245.640 2334.850 4611.320 ;
+        RECT 2342.050 245.640 2344.450 4611.320 ;
+        RECT 2351.650 245.640 2374.850 4611.320 ;
+        RECT 2382.050 245.640 2384.450 4611.320 ;
+        RECT 2391.650 245.640 2414.850 4611.320 ;
+        RECT 2422.050 245.640 2424.450 4611.320 ;
+        RECT 2431.650 245.640 2454.850 4611.320 ;
+        RECT 2462.050 245.640 2464.450 4611.320 ;
+        RECT 2471.650 245.640 2494.850 4611.320 ;
+        RECT 2502.050 245.640 2504.450 4611.320 ;
+        RECT 2511.650 245.640 2534.850 4611.320 ;
+        RECT 2542.050 245.640 2544.450 4611.320 ;
+        RECT 2551.650 245.640 2574.850 4611.320 ;
+        RECT 2582.050 245.640 2584.450 4611.320 ;
+        RECT 2591.650 245.640 2614.850 4611.320 ;
+        RECT 2622.050 245.640 2624.450 4611.320 ;
+        RECT 2631.650 245.640 2654.850 4611.320 ;
+        RECT 2662.050 245.640 2664.450 4611.320 ;
+        RECT 2671.650 245.640 2694.850 4611.320 ;
+        RECT 2702.050 245.640 2704.450 4611.320 ;
+        RECT 2711.650 245.640 2734.850 4611.320 ;
+        RECT 2742.050 245.640 2744.450 4611.320 ;
+        RECT 2751.650 245.640 2774.850 4611.320 ;
+        RECT 2782.050 245.640 2784.450 4611.320 ;
+        RECT 2791.650 245.640 2814.850 4611.320 ;
+        RECT 2822.050 245.640 2824.450 4611.320 ;
+        RECT 2831.650 245.640 2854.850 4611.320 ;
+        RECT 2862.050 245.640 2864.450 4611.320 ;
+        RECT 2871.650 245.640 2894.850 4611.320 ;
+        RECT 2902.050 245.640 2904.450 4611.320 ;
+        RECT 2911.650 245.640 2934.850 4611.320 ;
+        RECT 2942.050 3732.580 2944.450 4611.320 ;
+        RECT 2951.650 3732.580 2974.850 4611.320 ;
+        RECT 2942.050 245.640 2974.850 3732.580 ;
+        RECT 2982.050 245.640 2984.450 4611.320 ;
+        RECT 2991.650 1863.905 3014.850 4611.320 ;
+        RECT 3022.050 3732.580 3024.450 4611.320 ;
+        RECT 3031.650 3732.580 3054.850 4611.320 ;
+        RECT 3022.050 1863.905 3054.850 3732.580 ;
+        RECT 2991.650 286.375 3054.850 1863.905 ;
+        RECT 2991.650 245.640 3014.850 286.375 ;
+        RECT 3022.050 245.640 3054.850 286.375 ;
+        RECT 3062.050 245.640 3064.450 4611.320 ;
+        RECT 3071.650 245.640 3094.850 4611.320 ;
+        RECT 3102.050 245.640 3104.450 4611.320 ;
+        RECT 3111.650 245.640 3122.220 4611.320 ;
+        RECT 3143.020 245.640 3144.620 4611.320 ;
+        RECT 3165.420 245.640 3166.345 4611.320 ;
   END
 END openframe_project_wrapper
 END LIBRARY

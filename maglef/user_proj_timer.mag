@@ -1,13 +1,15 @@
 magic
-tech sky130A
+tech sky130B
 magscale 1 2
-timestamp 1697527282
+timestamp 1761071203
+<< nwell >>
+rect 1066 2159 38862 697425
 << obsli1 >>
 rect 1104 2159 38824 697425
 << obsm1 >>
-rect 934 2128 38824 697456
+rect 842 2128 38824 697456
 << obsm2 >>
-rect 938 2139 35242 697445
+rect 846 2139 35242 697445
 << metal3 >>
 rect 0 687352 800 687472
 rect 0 667496 800 667616
@@ -121,7 +123,7 @@ rect 4208 2128 4528 697456
 rect 19568 2128 19888 697456
 rect 34928 2128 35248 697456
 << obsm4 >>
-rect 3187 249595 3805 393549
+rect 6499 12275 8589 323781
 << labels >>
 rlabel metal3 s 0 51960 800 52080 6 io_in[0]
 port 1 nsew signal input
@@ -203,8 +205,8 @@ port 37 nsew signal input
 string FIXED_BBOX 0 0 40000 700000
 string LEFclass BLOCK
 string LEFview TRUE
-string GDS_END 9132172
-string GDS_FILE /home/marwan/openframe_timer_example/openlane/user_proj_timer/runs/23_10_17_10_19/results/signoff/user_proj_timer.magic.gds
-string GDS_START 425330
+string GDS_END 9092472
+string GDS_FILE /home/ghp7482/projects/LLM4Microwatt/openlane/user_proj_timer/runs/25_10_21_14_24/results/signoff/user_proj_timer.magic.gds
+string GDS_START 483906
 << end >>
 

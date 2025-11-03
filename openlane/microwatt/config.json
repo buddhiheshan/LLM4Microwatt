@@ -1,0 +1,29 @@
+{
+  "DESIGN_NAME": "toplevel",
+  "PDK": "sky130A",
+  "STD_CELL_LIBRARY": "sky130_fd_sc_hd",
+  "VERILOG_FILES": [
+    "dir::../../verilog/rtl/deps/defines.v",
+    "dir::../../verilog/rtl/deps/uart_defines.v",
+    "dir::../../verilog/rtl/microwatt.v",
+    "dir::../../verilog/rtl/deps/tap_top.v",
+    "dir::../../verilog/rtl/deps/raminfr.v",
+    "dir::../../verilog/rtl/deps/uart_top.v",
+    "dir::../../verilog/rtl/deps/uart_transmitter.v",
+    "dir::../../verilog/rtl/deps/uart_receiver.v",
+    "dir::../../verilog/rtl/deps/uart_wb.v",
+    "dir::../../verilog/rtl/deps/uart_regs.v",
+    "dir::../../verilog/rtl/deps/uart_rfifo.v",
+    "dir::../../verilog/rtl/deps/uart_tfifo.v",
+    "dir::../../verilog/rtl/deps/uart_sync_flops.v",
+    "dir::../../verilog/rtl/deps/simplebus_host.v",
+    "dir::../../verilog/rtl/deps/RAM32_1RW1R.v",
+    "dir::../../verilog/rtl/deps/RAM512.v",
+    "dir::../../verilog/rtl/deps/multiply_add_64x64.v",
+    "dir::../../verilog/rtl/deps/Microwatt_FP_DFFRFile.v"
+  ],
+  "CLOCK_PORT": "ext_clk",
+  "CLOCK_PERIOD": 20,
+  "BASE_SDC_FILE": "dir::base.sdc",
+  "QUIT_ON_SYNTH_CHECKS": false
+}

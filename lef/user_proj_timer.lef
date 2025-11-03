@@ -96,7 +96,7 @@ MACRO user_proj_timer
     END
   END io_in[9]
   PIN io_oeb[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -104,7 +104,7 @@ MACRO user_proj_timer
     END
   END io_oeb[0]
   PIN io_oeb[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -112,7 +112,7 @@ MACRO user_proj_timer
     END
   END io_oeb[10]
   PIN io_oeb[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -120,7 +120,7 @@ MACRO user_proj_timer
     END
   END io_oeb[1]
   PIN io_oeb[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -128,7 +128,7 @@ MACRO user_proj_timer
     END
   END io_oeb[2]
   PIN io_oeb[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -136,7 +136,7 @@ MACRO user_proj_timer
     END
   END io_oeb[3]
   PIN io_oeb[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -144,7 +144,7 @@ MACRO user_proj_timer
     END
   END io_oeb[4]
   PIN io_oeb[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -152,7 +152,7 @@ MACRO user_proj_timer
     END
   END io_oeb[5]
   PIN io_oeb[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -160,7 +160,7 @@ MACRO user_proj_timer
     END
   END io_oeb[6]
   PIN io_oeb[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -168,7 +168,7 @@ MACRO user_proj_timer
     END
   END io_oeb[7]
   PIN io_oeb[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -176,7 +176,7 @@ MACRO user_proj_timer
     END
   END io_oeb[8]
   PIN io_oeb[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
     PORT
       LAYER met3 ;
@@ -184,99 +184,99 @@ MACRO user_proj_timer
     END
   END io_oeb[9]
   PIN io_out[0]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 359.080 4.000 359.680 ;
     END
   END io_out[0]
   PIN io_out[10]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 3337.480 4.000 3338.080 ;
     END
   END io_out[10]
   PIN io_out[1]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 656.920 4.000 657.520 ;
     END
   END io_out[1]
   PIN io_out[2]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 954.760 4.000 955.360 ;
     END
   END io_out[2]
   PIN io_out[3]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 1252.600 4.000 1253.200 ;
     END
   END io_out[3]
   PIN io_out[4]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 1550.440 4.000 1551.040 ;
     END
   END io_out[4]
   PIN io_out[5]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 1848.280 4.000 1848.880 ;
     END
   END io_out[5]
   PIN io_out[6]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 2146.120 4.000 2146.720 ;
     END
   END io_out[6]
   PIN io_out[7]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 2443.960 4.000 2444.560 ;
     END
   END io_out[7]
   PIN io_out[8]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 2741.800 4.000 2742.400 ;
     END
   END io_out[8]
   PIN io_out[9]
-    DIRECTION OUTPUT TRISTATE ;
+    DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 0.795200 ;
+    ANTENNADIFFAREA 0.445500 ;
     PORT
       LAYER met3 ;
         RECT 0.000 3039.640 4.000 3040.240 ;
@@ -305,7 +305,8 @@ MACRO user_proj_timer
   PIN wb_clk_i
     DIRECTION INPUT ;
     USE SIGNAL ;
-    ANTENNAGATEAREA 0.852000 ;
+    ANTENNAGATEAREA 2.156100 ;
+    ANTENNADIFFAREA 1.304100 ;
     PORT
       LAYER met3 ;
         RECT 0.000 61.240 4.000 61.840 ;
@@ -314,19 +315,21 @@ MACRO user_proj_timer
   PIN wb_rst_i
     DIRECTION INPUT ;
     USE SIGNAL ;
-    ANTENNAGATEAREA 0.742500 ;
+    ANTENNAGATEAREA 0.852000 ;
     PORT
       LAYER met3 ;
         RECT 0.000 160.520 4.000 161.120 ;
     END
   END wb_rst_i
   OBS
+      LAYER nwell ;
+        RECT 5.330 10.795 194.310 3487.125 ;
       LAYER li1 ;
         RECT 5.520 10.795 194.120 3487.125 ;
       LAYER met1 ;
-        RECT 4.670 10.640 194.120 3487.280 ;
+        RECT 4.210 10.640 194.120 3487.280 ;
       LAYER met2 ;
-        RECT 4.690 10.695 176.210 3487.225 ;
+        RECT 4.230 10.695 176.210 3487.225 ;
       LAYER met3 ;
         RECT 3.990 3437.760 176.230 3487.205 ;
         RECT 4.400 3436.360 176.230 3437.760 ;
@@ -400,7 +403,7 @@ MACRO user_proj_timer
         RECT 4.400 60.840 176.230 62.240 ;
         RECT 3.990 10.715 176.230 60.840 ;
       LAYER met4 ;
-        RECT 15.935 1247.975 19.025 1967.745 ;
+        RECT 32.495 61.375 42.945 1618.905 ;
   END
 END user_proj_timer
 END LIBRARY
