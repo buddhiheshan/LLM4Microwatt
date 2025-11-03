@@ -3,35 +3,36 @@ set -x
 
 # Where to do tape out - WARNING: needs ~20GB of disk
 
-export MPW=/home/ghp7482/projects/LLM4Microwatt/scratch
+export MPW=~/projects/LLM4Microwatt/scratch
 
-# export PDK=sky130A
+export PDK=sky130A
 
-# export ROUTING_CORES=$(nproc)
+export ROUTING_CORES=$(nproc)
 
-# export OPENLANE_ROOT=$MPW/OpenLane
-# export PDK_ROOT=$OPENLANE_ROOT/pdks
-# export CARAVEL_USER_PROJECT_ROOT=$MPW/caravel_user_project
-# export CARAVEL_ROOT=$CARAVEL_USER_PROJECT_ROOT/caravel
-# export MCW_ROOT=$CARAVEL_USER_PROJECT_ROOT/mgmt_core_wrapper
+export OPENLANE_ROOT=$MPW/OpenLane
+export PDK_ROOT=$OPENLANE_ROOT/pdks
+export CARAVEL_USER_PROJECT_ROOT=$MPW/caravel_user_project
+export CARAVEL_ROOT=$CARAVEL_USER_PROJECT_ROOT/caravel
+export MCW_ROOT=$CARAVEL_USER_PROJECT_ROOT/mgmt_core_wrapper
 
-# mkdir -p $MPW
+# Clone the repos and initial setup
+mkdir -p $MPW
 
-# cd $MPW
+cd $MPW
+git clone --depth 1 https://github.com/antonblanchard/DFFRAM -b microwatt-20221228
+git clone --depth 1 https://github.com/antonblanchard/microwatt -b caravel-mpw7-20221125
 
-# git clone --depth 1 https://github.com/antonblanchard/DFFRAM -b microwatt-20221228
+cd $MPW/..
 
-# git clone --depth 1 https://github.com/antonblanchard/microwatt -b caravel-mpw7-20221125
+make setup
 
-# cd $MPW/..
+#Convert VHDL to verilog
+cd $MPW/microwatt
+make DOCKER=1 FPGA_TARGET=caravel microwatt_asic.v
 
-# make setup
+cp $MPW/microwatt/microwatt_asic.v $MPW/../verilog/rtl/microwatt.v
 
-# cd $MPW/microwatt
-# make DOCKER=1 FPGA_TARGET=caravel microwatt_asic.v
-
-# cp $MPW/microwatt/microwatt_asic.v $MPW/../verilog/rtl/microwatt.v
-
+# RAM generation
 cat > $MPW/DFFRAM/ram512_pin_order.cfg << EOF
 #S
 A0.*
@@ -56,8 +57,8 @@ Do1.*
 Do0.*
 EOF
 
-cd $MPW/DFFRAM
 # Build cache and main RAM DFFRAMs
+cd $MPW/DFFRAM
 ./dffram.py --pdk-root $PDK_ROOT --size 32x64 --variant 1RW1R --min-height 180 --pin_order=ram32_1rw1r_pin_order.cfg
 ./dffram.py --pdk-root $PDK_ROOT --size 512x64 --vertical-halo 100 --horizontal-halo 20 --pin_order=ram512_pin_order.cfg
 
@@ -69,6 +70,7 @@ do
 	cd -
 done
 
+# Build other macros
 cd $MPW/..
 make multiply_add_64x64
 make Microwatt_FP_DFFRFile
